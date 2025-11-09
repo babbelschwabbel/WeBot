@@ -23,5 +23,5 @@ int main(int argc, char **argv) {
 // ** KOMPILIERUNGS-FIX: ALLE IMPLEMENTIERUNGEN HIER EINSCHLIESSEN **
 // ------------------------------------------------------------------
 
-#include "epuck_hardware.c" // <-- Fügt den Code hier ein
-#include "epuck_logic.c"    // <-- Fügt den Code hier ein
+// #include "epuck_hardware.c" // <-- Fügt den Code hier ein
+// #include "epuck_logic.c"    // <-- Fügt den Code hier ein
